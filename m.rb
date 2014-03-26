@@ -1,3 +1,1 @@
-puts 'Name?'
-num = gets.chomp
-puts num
+puts "boll".rand
